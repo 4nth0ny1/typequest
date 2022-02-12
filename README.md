@@ -1,3 +1,9 @@
+TypeQuest is a game of exploration and in a text based world. 
+
+This game is created in a world where dragons are everywhere and people live in fear of them. 
+
+You are a warrior that defends the small farming town in your area. Normally, you spend your day, training, fighting bandits, keeping relationships with near by warriors, settling domestic disputes and keeping the peace, but today a dragon from far away has perched itself on top of a nearby mountain. The town is terrified and you wonder how it is that you will deal with this situation. Your job is to find a way before the dragon destroys the town. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
