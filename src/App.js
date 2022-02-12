@@ -1,9 +1,11 @@
 import './App.css';
+import GameScreen from './components/GameScreen.js'
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <h1>TypeQuest Test</h1>
+      <h1>TypeQuest</h1>
+      <GameScreen />
     </div>
   );
 }

@@ -11,4 +11,57 @@
   background: black;
   color: white;
   text-align: center;
+  padding-top: 25px;
 }
+
+.console {
+  height: 800px;
+  width: 800px;
+  margin: 25px auto;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+}
+
+.monitor {
+  height: 95%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+}
+
+.screen {
+  background: green;
+  border-radius: 50px;
+  width: 100%;
+  height: 100%;
+}
+
+.quick-buttons > button {
+  padding: 10px;
+  margin: 10px;
+}
+
+.terminal {
+  display: flex;
+  border-top: 1px solid gray;
+  align-items: center;
+  justify-content: center;
+  height: 5%;
+}
+
+.input-terminal {
+  width: 100%;
+  height: 100%;
+  background: black;
+  color: gray;
+}
+
+.button-terminal {
+  height: 100%;
+  padding: 10px;
+}
+
+
+
